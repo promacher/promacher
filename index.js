@@ -5,8 +5,8 @@ const websocket = require("ws")
 const Binance = require('node-binance-api');
 const { response } = require("express");
 const binance = new Binance().options({
-  APIKEY: 'gXInsTELPFPctUZKy0ZzMvnf4TChtD4IT6sGfSFqALjw4KzVwnuPqQKOuzezfCRD',
-  APISECRET: 'iJYRdkrHhj6LVpBxICgHzGq50OoF1yuwM5kw9gapv6IHKpU7bqmF9F13zXI8ZQom'
+  APIKEY: '**********************',
+  APISECRET: '**********************'
 });
 
 
