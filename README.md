@@ -1,5 +1,7 @@
 ### Hi there 👋
-Test
+
+Türkiye 'nin en detaylı gezi rehberi https://gezipedia.com.tr
+
 <!--
 **promacher/promacher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
